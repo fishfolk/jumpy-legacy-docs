@@ -1,0 +1,11 @@
+[book]
+authors = ["Carlo Supina", "Srayan Jana", "grufkork", "Micah Tigley"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Fish Fight Documentation"
+
+[output.html]
+default-theme = "navy"
+git-repository-url = "https://github.com/fishfight/jumpy"
+git-repository-icon = "fa-github"
